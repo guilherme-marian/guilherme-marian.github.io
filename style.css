@@ -126,7 +126,6 @@
 
 .main
 {
-    
     background-color: #131313;
     opacity: 0.9;
     height: 100%;
@@ -533,6 +532,12 @@
     background: rgba(200,0,0, 0.85);
 }
 
+
+.forms {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 
 .footer
 {
