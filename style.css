@@ -129,6 +129,7 @@
     background-color: #131313;
     opacity: 0.9;
     height: 100%;
+    
 }
 
 .main__container
@@ -536,7 +537,11 @@
 .forms {
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content:space-between;
+    flex-direction: column;
+    width: 600px;
+    max-height: 800px;
+    border-radius: 10px;
 }
 
 .footer
